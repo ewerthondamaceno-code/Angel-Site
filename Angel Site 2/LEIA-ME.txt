@@ -1,0 +1,28 @@
+ANGEL STUDIO 4 — EDITOR FÁCIL, SEM CÓDIGO
+
+COMECE AQUI
+1. Extraia o ZIP em uma pasta do computador Windows.
+2. Clique duas vezes em ABRIR-EDITOR.bat (ou abra editor.html no Chrome/Edge).
+3. Clique em Páginas para escolher uma página.
+4. Clique em textos, imagens, cartões ou botões dentro da página; edite pelo painel da direita.
+5. Clique em Adicionar para inserir seções prontas, vídeos, textos, imagens e botões.
+6. Use Organizar para mudar a ordem dos elementos.
+7. Clique em Publicar site para baixar um ZIP apenas com o site público.
+8. Extraia o ZIP público e envie TODO o conteúdo para sua hospedagem.
+
+SEU PROJETO
+- Salvo automaticamente no navegador local, enquanto o armazenamento dele existir.
+- O botão Ajuda (?), na barra esquerda, oferece backup (.json) e importação (.json).
+- Não apague os dados do navegador sem antes baixar o backup JSON.
+- Para atualizar o site publicado, gere e envie um novo ZIP.
+- Para preservar atualizações entre computadores, exporte o JSON e importe no outro editor.
+- Também é possível importar backups das versões 2 e 3, desde que o formato seja compatível.
+
+IMPORTANTE
+- O site público não inclui editor, login administrativo ou painel de edição.
+- Esta versão é um construtor no-code com modelos e blocos editáveis, não um editor genérico de qualquer página HTML.
+- Não tem publicação direta por login na hospedagem. A publicação é manual com ZIP.
+- Imagens adicionadas do PC são otimizadas e incorporadas aos dados do projeto.
+- URLs de imagens de terceiros exigem internet para funcionar.
+- Alterar cor de fundo em uma seção com gradiente converte aquele fundo para cor sólida.
+- O conteúdo de textos e tutoriais iniciais são demonstrações e devem ser revisados antes de publicar.
