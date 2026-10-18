@@ -1,9 +1,0 @@
-ANGEL GUIDES — SITE PÚBLICO
-
-1. Extraia este ZIP.
-2. Abra index.html para conferir as alterações.
-3. Envie TODOS os arquivos para sua hospedagem (Hostinger, Netlify ou GitHub Pages).
-4. Este arquivo não contém o editor, login ou painel administrativo.
-5. Guarde um backup JSON do seu projeto no Angel Studio 4 para editar depois.
-
-Imagens carregadas por links externos exigem internet.
