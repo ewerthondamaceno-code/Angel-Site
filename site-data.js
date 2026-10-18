@@ -242,7 +242,7 @@ window.ANGEL_SITE = {
                         "level": "h2"
                       },
                       "style": {
-                        "fontSize": "66px",
+                        "fontSize": "42px",
                         "color": "#ffffff",
                         "fontWeight": "800",
                         "lineHeight": "1.08"
